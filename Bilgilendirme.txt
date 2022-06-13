@@ -1,0 +1,4 @@
+Ad Soyad: Abdullah Hamza ÇORAPÇI
+Okul Numarası: 19490022
+Proje: Windows Masaüstü İçin Radyo Uygulaması
+Proje çalıştırma konumu: Radyo/bin/Debug/Radyo.exe
